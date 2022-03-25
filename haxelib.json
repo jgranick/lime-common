@@ -1,0 +1,11 @@
+{
+	"name": "lime",
+	"url": "https://github.com/native-toolkit/lime-common",
+	"license": "MIT",
+	"tags": [],
+	"description": "A foundational Haxe framework for cross-platform development",
+	"version": "8.0.0",
+	"releasenote": "",
+	"contributors": [ "singmajesty" ],
+	"classPath": "src"
+}
